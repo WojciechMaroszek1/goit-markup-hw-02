@@ -41,6 +41,7 @@ body {
 	font-size: 36px;
 	line-height: 1.16;
 	text-align: center;
+	letter-spacing: 0.03em;
 }
 /* GLOBAL */
 
@@ -104,11 +105,12 @@ body {
 	background-color: var(--main-blue-color);
 	color: var(--main-background-color);
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 1.87;
 	text-align: center;
 	letter-spacing: 0.06em;
 	cursor: pointer;
+	font-family: var(--main-font);
 }
 /* Header index.html */
 /* Section 1 index.html */
